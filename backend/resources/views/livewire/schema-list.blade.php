@@ -1,5 +1,5 @@
 <div class="container">
-    <h1 class="mt-4">Add new schema</h1>
+    <h1 class="mt-4">Init new schema</h1>
     <div class="form mb-4 ">
         <form wire:submit.prevent="addSchema">
             <div class="row">
@@ -13,7 +13,7 @@
                     <textarea name="newSchemaDescription" class="form-control" wire:model.lazy="newSchemaDescription" cols="30" rows="1"></textarea>
                 </div>
                 <div class="col-md-2 text-right">
-                    <button type="submit" class="btn btn-primary"> save </button>
+                    <button type="submit" class="btn btn-primary"> Save </button>
                 </div>
             </div>
         </form>
