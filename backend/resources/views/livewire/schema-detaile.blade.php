@@ -12,6 +12,10 @@
 				</p>
 			</div>
 			
+			<div>
+				this line simulates a hotfix on the running project
+			</div>
+
 			<div class="bg-light m-1 p-1 rounded">
 				<h5 class="text-info">create new table</h5>
 				<livewire:add-table :schemaId="$schema->id" viewDirection="vertical" />
