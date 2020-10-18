@@ -88,6 +88,10 @@
         </tbody>    
     </table>
 
+    <div class="pt-2 text-center">
+        this lines are added to check that the branch separation and and common parts updates work correctly.
+    </div>
+
     <script>
         let newValue = null;
 
