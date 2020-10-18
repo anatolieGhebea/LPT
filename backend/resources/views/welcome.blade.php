@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>LPT-CL1</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -80,12 +80,15 @@
             @endif
 
             <div class="content">
+                <div class="text-center">
+                    CL1
+                </div>
                 <div class="title m-b-md">
-                    Laravel
+                    <b>L</b>aravel <b>P</b>roject <b>T</b>rampoline
                 </div>
 
                 <div class="links">
-                    <a href="{{ route('schemas.index') }}">Schemas</a>
+                    <a href="{{ route('schemas.index') }}">View projects</a>
                 </div>
             </div>
         </div>
