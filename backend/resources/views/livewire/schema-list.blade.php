@@ -101,6 +101,9 @@
         It works, so new features are on the way!!
     </div>
 
+    <div>
+        some more modifications...
+    </div>
     <script>
         let newValue = null;
 
