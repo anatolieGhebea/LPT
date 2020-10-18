@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>LPT-CL2</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -12,10 +12,10 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #eee;
                 color: #636b6f;
-                font-family: 'Nunito', sans-serif;
-                font-weight: 200;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: 300;
                 height: 100vh;
                 margin: 0;
             }
@@ -80,8 +80,11 @@
             @endif
 
             <div class="content">
+                <div class="text-center">
+                    CL2
+                </div>
                 <div class="title m-b-md">
-                    Laravel
+                    <b>L</b>aravel <b>P</b>roject <b>T</b>rampoline
                 </div>
 
                 <div class="links">
