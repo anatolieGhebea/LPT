@@ -16,3 +16,4 @@
 public/vendor/*
 _db/*
 push-sync.sh
+push-to-branches.sh
