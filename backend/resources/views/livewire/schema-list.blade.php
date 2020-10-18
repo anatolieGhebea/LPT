@@ -97,6 +97,10 @@
         </p>
     </div>
 
+    <div>
+        A test to check if the automatic script is working for the auto merge and push to remote.
+    </div>
+
     <script>
         let newValue = null;
 
