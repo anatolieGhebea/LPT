@@ -90,6 +90,7 @@
                 <div class="links">
                     <a href="{{ route('schemas.index') }}">View projects</a>
                 </div>
+                test
             </div>
         </div>
     </body>
