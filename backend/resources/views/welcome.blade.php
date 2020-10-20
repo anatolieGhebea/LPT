@@ -87,6 +87,7 @@
                 <div class="links">
                     <a href="{{ route('schemas.index') }}">Schemas</a>
                 </div>
+                test
             </div>
         </div>
     </body>
